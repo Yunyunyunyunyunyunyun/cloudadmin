@@ -1,0 +1,59 @@
+.ant-btn {
+  border-radius: 2px;
+  font-size: 12px;
+}
+.ant-select-dropdown {
+  font-size: 12px;
+}
+.ant-input {
+  border-radius: 2px;
+  font-size: 12px;
+  color: #000;
+}
+.ant-modal-header {
+  height: 50px;
+}
+.ant-modal-title {
+  font-weight: 600;
+}
+.ant-modal-close-x {
+  height: 50px;
+  line-height: 50px;
+}
+.ant-modal-content {
+  border-radius: 2px;
+}
+.ant-form label {
+  font-size: 12px;
+}
+.ant-select {
+  font-size: 12px;
+  color: #333;
+}
+.ant-form-item {
+  font-size: 12px;
+}
+.ant-modal-footer {
+  border-top: none;
+}
+.ant-calendar-range .ant-calendar-input, .ant-calendar-range .ant-calendar-time-picker-input {
+  font-size: 12px;
+}
+.tangram-suggestion-main {
+  z-index: 9999;
+}
+.table-btn-link {
+  padding-left: 0;
+}
+.comModal .ant-modal-footer {
+  padding: 20px 24px;
+}
+.comModal .ant-modal-footer button + button, .commonModal .ant-modal-footer button + button {
+  margin-left: 10px;
+}
+.comModal .ant-btn, .commonModal .ant-btn {
+  padding: 0 16px;
+}
+.ant-table-scroll .ant-table-body {
+  overflow-x: auto!important;
+}
